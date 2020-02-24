@@ -1,0 +1,5148 @@
+=============SETUP===============
+The new deck:
+The shuffled deck:
+ Q-S 8-D 3-D 4-H 8-H 10-D 9-H 3-S 5-S 5-C 9-C 10-C 3-C
+ K-S K-D 3-H 4-D A-C 7-H K-C K-H 6-S 6-H 7-C 9-S 2-H
+ 7-S 5-H J-S 10-H J-D A-H Q-H 2-D 8-S J-C 7-D Q-D 4-S
+ A-S 9-D 8-C A-D J-H 5-D 4-C 2-S 6-D 6-C 10-S 2-C Q-C
+
+Original hands:
+Player1:
+8-D 4-H 10-D 3-S 5-C 10-C K-S 3-H A-C K-C 6-S 7-C 2-H 
+5-H 10-H A-H 2-D J-C Q-D A-S 8-C J-H 4-C 6-D 10-S Q-C 
+
+Player2:
+Q-S 3-D 8-H 9-H 5-S 9-C 3-C K-D 4-D 7-H K-H 6-H 9-S 
+7-S J-S J-D Q-H 8-S 7-D 4-S 9-D A-D 5-D 2-S 6-C 2-C 
+
+=============== PLAY ===============
+
+Round1: 
+Player1: Card: 8-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round2: 
+Player1: Card: 4-H
+Player2: Card: 3-D
+Face: Heads
+Winner: Player1
+
+Round3: 
+Player1: Card: 10-D
+Player2: Card: 8-H
+Face: Heads
+Winner: Player1
+
+Round4: 
+Player1: Card: 3-S
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round5: 
+Player1: Card: 5-C
+Player2: Card: 5-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 10-C
+Player2: Card: 9-C
+Player1: Card: K-S
+Player2: Card: 3-C
+Player1: Card: 3-H
+Player2: Card: K-D
+Player1: Card: A-C
+Player2: Card: 4-D
+Face: Tails
+Winner: Player1
+
+Round6: 
+Player1: Card: K-C
+Player2: Card: 7-H
+Face: Heads
+Winner: Player1
+
+Round7: 
+Player1: Card: 6-S
+Player2: Card: K-H
+Face: Tails
+Winner: Player1
+
+Round8: 
+Player1: Card: 7-C
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round9: 
+Player1: Card: 2-H
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round10: 
+Player1: Card: 5-H
+Player2: Card: 7-S
+Face: Tails
+Winner: Player1
+
+Round11: 
+Player1: Card: 10-H
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round12: 
+Player1: Card: A-H
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round13: 
+Player1: Card: 2-D
+Player2: Card: Q-H
+Face: Heads
+Winner: Player2
+
+Round14: 
+Player1: Card: J-C
+Player2: Card: 8-S
+Face: Heads
+Winner: Player1
+
+Round15: 
+Player1: Card: Q-D
+Player2: Card: 7-D
+Face: Heads
+Winner: Player1
+
+Round16: 
+Player1: Card: A-S
+Player2: Card: 4-S
+Face: Heads
+Winner: Player2
+
+Round17: 
+Player1: Card: 8-C
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round18: 
+Player1: Card: J-H
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round19: 
+Player1: Card: 4-C
+Player2: Card: 5-D
+Face: Heads
+Winner: Player2
+
+Round20: 
+Player1: Card: 6-D
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round21: 
+Player1: Card: 10-S
+Player2: Card: 6-C
+Face: Tails
+Winner: Player2
+
+Round22: 
+Player1: Card: Q-C
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round23: 
+Player1: Card: 3-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round24: 
+Player1: Card: 4-H
+Player2: Card: 8-D
+Face: Heads
+Winner: Player2
+
+Round25: 
+Player1: Card: 8-H
+Player2: Card: 9-H
+Face: Tails
+Winner: Player1
+
+Round26: 
+Player1: Card: 10-D
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round27: 
+Player1: Card: 4-D
+Player2: Card: 6-H
+Face: Tails
+Winner: Player1
+
+Round28: 
+Player1: Card: A-C
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round29: 
+Player1: Card: K-D
+Player2: Card: 9-S
+Face: Tails
+Winner: Player2
+
+Round30: 
+Player1: Card: 3-H
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round31: 
+Player1: Card: 3-C
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round32: 
+Player1: Card: K-S
+Player2: Card: 10-H
+Face: Tails
+Winner: Player2
+
+Round33: 
+Player1: Card: 9-C
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round34: 
+Player1: Card: 10-C
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round35: 
+Player1: Card: 5-S
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round36: 
+Player1: Card: 5-C
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round37: 
+Player1: Card: 7-H
+Player2: Card: 4-S
+Face: Tails
+Winner: Player2
+
+Round38: 
+Player1: Card: K-C
+Player2: Card: A-S
+Face: Tails
+Winner: Player2
+
+Round39: 
+Player1: Card: K-H
+Player2: Card: 9-D
+Face: Tails
+Winner: Player2
+
+Round40: 
+Player1: Card: 6-S
+Player2: Card: 8-C
+Face: Heads
+Winner: Player2
+
+Round41: 
+Player1: Card: 7-S
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round42: 
+Player1: Card: 5-H
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round43: 
+Player1: Card: 8-S
+Player2: Card: 5-D
+Face: Tails
+Winner: Player2
+
+Round44: 
+Player1: Card: J-C
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round45: 
+Player1: Card: 7-D
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round46: 
+Player1: Card: Q-D
+Player2: Card: 10-S
+Face: Heads
+Winner: Player1
+
+Round47: 
+Player1: Card: 2-S
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round48: 
+Player1: Card: 6-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round49: 
+Player1: Card: 2-C
+Player2: Card: 8-D
+Face: Heads
+Winner: Player2
+
+Round50: 
+Player1: Card: Q-C
+Player2: Card: 4-H
+Face: Heads
+Winner: Player1
+
+Round51: 
+Player1: Card: 9-H
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round52: 
+Player1: Card: 8-H
+Player2: Card: 10-D
+Face: Heads
+Winner: Player2
+
+Round53: 
+Player1: Card: 6-H
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round54: 
+Player1: Card: 4-D
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round55: 
+Player1: Card: 2-H
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round56: 
+Player1: Card: 3-H
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round57: 
+Player1: Card: J-S
+Player2: Card: 10-H
+Face: Tails
+Winner: Player2
+
+Round58: 
+Player1: Card: 3-C
+Player2: Card: K-S
+Face: Heads
+Winner: Player2
+
+Round59: 
+Player1: Card: J-D
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round60: 
+Player1: Card: 9-C
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round61: 
+Player1: Card: Q-H
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round62: 
+Player1: Card: 5-S
+Player2: Card: 5-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: A-D
+Player2: Card: 4-S
+Player1: Card: 7-S
+Player2: Card: 7-H
+Player1: Card: 4-C
+Player2: Card: A-S
+Player1: Card: J-C
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round63: 
+Player1: Card: 6-C
+Player2: Card: 9-D
+Face: Tails
+Winner: Player1
+
+Round64: 
+Player1: Card: 7-D
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round65: 
+Player1: Card: 10-S
+Player2: Card: 8-C
+Face: Heads
+Winner: Player1
+
+Round66: 
+Player1: Card: Q-D
+Player2: Card: 6-S
+Face: Tails
+Winner: Player2
+
+Round67: 
+Player1: Card: 4-H
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round68: 
+Player1: Card: Q-C
+Player2: Card: 5-H
+Face: Heads
+Winner: Player1
+
+Round69: 
+Player1: Card: 3-S
+Player2: Card: 5-D
+Face: Tails
+Winner: Player1
+
+Round70: 
+Player1: Card: 9-H
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round71: 
+Player1: Card: K-D
+Player2: Card: Q-S
+Face: Tails
+Winner: Player2
+
+Round72: 
+Player1: Card: 3-H
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round73: 
+Player1: Card: 10-C
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round74: 
+Player1: Card: 9-C
+Player2: Card: 6-D
+Face: Tails
+Winner: Player2
+
+Round75: 
+Player1: Card: K-C
+Player2: Card: 8-D
+Face: Heads
+Winner: Player1
+
+Round76: 
+Player1: Card: J-C
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round77: 
+Player1: Card: A-S
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round78: 
+Player1: Card: 4-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round79: 
+Player1: Card: 7-H
+Player2: Card: 7-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 7-S
+Player2: Card: 6-H
+Player1: Card: 4-S
+Player2: Card: A-C
+Player1: Card: A-D
+Player2: Card: 4-D
+Player1: Card: 5-C
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round80: 
+Player1: Card: 5-S
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round81: 
+Player1: Card: 9-D
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round82: 
+Player1: Card: 6-C
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round83: 
+Player1: Card: 8-C
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round84: 
+Player1: Card: 10-S
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round85: 
+Player1: Card: J-H
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round86: 
+Player1: Card: 4-H
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round87: 
+Player1: Card: 5-H
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round88: 
+Player1: Card: Q-C
+Player2: Card: Q-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-D
+Player2: Card: K-H
+Player1: Card: 3-S
+Player2: Card: 7-D
+Player1: Card: 8-D
+Player2: Card: 6-S
+Player1: Card: K-C
+Player2: Card: Q-D
+Face: Heads
+Winner: Player1
+
+Round89: 
+Player1: Card: 2-C
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round90: 
+Player1: Card: J-C
+Player2: Card: 9-H
+Face: Heads
+Winner: Player1
+
+Round91: 
+Player1: Card: 10-D
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round92: 
+Player1: Card: A-S
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round93: 
+Player1: Card: 8-H
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round94: 
+Player1: Card: 4-C
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round95: 
+Player1: Card: 10-H
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round96: 
+Player1: Card: 9-D
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round97: 
+Player1: Card: J-S
+Player2: Card: 6-D
+Face: Heads
+Winner: Player1
+
+Round98: 
+Player1: Card: 6-C
+Player2: Card: 9-C
+Face: Tails
+Winner: Player1
+
+Round99: 
+Player1: Card: K-S
+Player2: Card: 9-S
+Face: Heads
+Winner: Player1
+
+Round100: 
+Player1: Card: 8-C
+Player2: Card: 5-C
+Face: Tails
+Winner: Player2
+
+Round101: 
+Player1: Card: J-D
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round102: 
+Player1: Card: 4-H
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round103: 
+Player1: Card: Q-D
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round104: 
+Player1: Card: K-C
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round105: 
+Player1: Card: 6-S
+Player2: Card: 6-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 8-D
+Player2: Card: 7-S
+Player1: Card: 7-D
+Player2: Card: 7-C
+Player1: Card: 3-S
+Player2: Card: 7-H
+Player1: Card: K-H
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round106: 
+Player1: Card: 5-D
+Player2: Card: 5-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: Q-H
+Player2: Card: 3-C
+Player1: Card: Q-C
+Player2: Card: 10-S
+Player1: Card: 9-H
+Player2: Card: A-H
+Player1: Card: J-C
+Player2: Card: J-H
+Player1: Card: Q-S
+Player2: Card: 2-D
+Player1: Card: 10-D
+Player2: Card: 5-H
+Player1: Card: K-D
+Player2: Card: 8-S
+Player1: Card: A-S
+Player2: Card: 2-C
+Face: Heads
+Winner: Player2
+
+Round107: 
+Player1: Card: 6-D
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round108: 
+Player1: Card: J-S
+Player2: Card: 8-H
+Face: Heads
+Winner: Player1
+
+Round109: 
+Player1: Card: 9-C
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round110: 
+Player1: Card: 6-C
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round111: 
+Player1: Card: 9-S
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round112: 
+Player1: Card: K-S
+Player2: Card: 10-H
+Face: Heads
+Winner: Player1
+
+Round113: 
+Player1: Card: 4-D
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round114: 
+Player1: Card: J-D
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round115: 
+Player1: Card: A-D
+Player2: Card: 5-C
+Face: Heads
+Winner: Player2
+
+Round116: 
+Player1: Card: 4-H
+Player2: Card: 8-C
+Face: Tails
+Winner: Player1
+
+Round117: 
+Player1: Card: 4-S
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round118: 
+Player1: Card: K-C
+Player2: Card: Q-D
+Face: Heads
+Winner: Player1
+
+Round119: 
+Player1: Card: 2-H
+Player2: Card: 2-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-H
+Player2: Card: A-S
+Player1: Card: 7-H
+Player2: Card: 8-S
+Player1: Card: 3-S
+Player2: Card: K-D
+Player1: Card: 7-C
+Player2: Card: 5-H
+Face: Tails
+Winner: Player2
+
+Round120: 
+Player1: Card: 7-D
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round121: 
+Player1: Card: 7-S
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round122: 
+Player1: Card: 8-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round123: 
+Player1: Card: 6-H
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round124: 
+Player1: Card: 6-S
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round125: 
+Player1: Card: 2-S
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round126: 
+Player1: Card: 6-D
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round127: 
+Player1: Card: 8-H
+Player2: Card: 10-S
+Face: Tails
+Winner: Player1
+
+Round128: 
+Player1: Card: J-S
+Player2: Card: Q-C
+Face: Heads
+Winner: Player2
+
+Round129: 
+Player1: Card: 4-C
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round130: 
+Player1: Card: 6-C
+Player2: Card: Q-H
+Face: Heads
+Winner: Player2
+
+Round131: 
+Player1: Card: 10-H
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round132: 
+Player1: Card: K-S
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round133: 
+Player1: Card: 10-C
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round134: 
+Player1: Card: 4-D
+Player2: Card: 9-C
+Face: Tails
+Winner: Player1
+
+Round135: 
+Player1: Card: 9-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round136: 
+Player1: Card: J-D
+Player2: Card: 9-S
+Face: Heads
+Winner: Player1
+
+Round137: 
+Player1: Card: 8-C
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round138: 
+Player1: Card: 4-H
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round139: 
+Player1: Card: A-C
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round140: 
+Player1: Card: 4-S
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round141: 
+Player1: Card: Q-D
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round142: 
+Player1: Card: K-C
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round143: 
+Player1: Card: 10-D
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round144: 
+Player1: Card: 7-D
+Player2: Card: 7-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: J-H
+Player2: Card: A-S
+Player1: Card: 6-H
+Player2: Card: K-H
+Player1: Card: J-C
+Player2: Card: 2-C
+Player1: Card: 6-S
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round145: 
+Player1: Card: A-H
+Player2: Card: 2-D
+Face: Tails
+Winner: Player1
+
+Round146: 
+Player1: Card: 2-S
+Player2: Card: 7-S
+Face: Tails
+Winner: Player1
+
+Round147: 
+Player1: Card: 10-S
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round148: 
+Player1: Card: 8-H
+Player2: Card: 8-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 3-C
+Player2: Card: 9-H
+Player1: Card: 4-C
+Player2: Card: 6-D
+Player1: Card: 5-S
+Player2: Card: Q-C
+Player1: Card: 10-H
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round149: 
+Player1: Card: 5-D
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round150: 
+Player1: Card: K-S
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round151: 
+Player1: Card: 3-H
+Player2: Card: 3-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 10-C
+Player2: Card: 9-D
+Player1: Card: 9-C
+Player2: Card: 7-C
+Player1: Card: 4-D
+Player2: Card: 4-S
+Player1: Card: 9-S
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round152: 
+Player1: Card: J-D
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round153: 
+Player1: Card: 5-C
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round154: 
+Player1: Card: 8-C
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round155: 
+Player1: Card: A-D
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round156: 
+Player1: Card: 4-H
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round157: 
+Player1: Card: 5-H
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round158: 
+Player1: Card: A-C
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round159: 
+Player1: Card: 2-H
+Player2: Card: 4-S
+Face: Tails
+Winner: Player1
+
+Round160: 
+Player1: Card: 6-S
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round161: 
+Player1: Card: 2-C
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round162: 
+Player1: Card: J-C
+Player2: Card: 9-C
+Face: Tails
+Winner: Player2
+
+Round163: 
+Player1: Card: K-H
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round164: 
+Player1: Card: 6-H
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round165: 
+Player1: Card: A-S
+Player2: Card: 3-D
+Face: Tails
+Winner: Player1
+
+Round166: 
+Player1: Card: J-H
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round167: 
+Player1: Card: 7-H
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round168: 
+Player1: Card: 7-D
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round169: 
+Player1: Card: 2-D
+Player2: Card: 8-S
+Face: Tails
+Winner: Player1
+
+Round170: 
+Player1: Card: A-H
+Player2: Card: A-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 7-S
+Player2: Card: K-D
+Player1: Card: 2-S
+Player2: Card: 5-H
+Player1: Card: Q-S
+Player2: Card: 9-C
+Player1: Card: 10-S
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round171: 
+Player1: Card: J-S
+Player2: Card: 10-C
+Face: Heads
+Winner: Player1
+
+Round172: 
+Player1: Card: 10-H
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round173: 
+Player1: Card: Q-C
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round174: 
+Player1: Card: 5-S
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round175: 
+Player1: Card: 6-D
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round176: 
+Player1: Card: 4-C
+Player2: Card: 7-H
+Face: Tails
+Winner: Player1
+
+Round177: 
+Player1: Card: 9-H
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round178: 
+Player1: Card: 3-C
+Player2: Card: 10-S
+Face: Heads
+Winner: Player2
+
+Round179: 
+Player1: Card: 8-D
+Player2: Card: 9-C
+Face: Heads
+Winner: Player2
+
+Round180: 
+Player1: Card: 8-H
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round181: 
+Player1: Card: Q-H
+Player2: Card: 5-H
+Face: Tails
+Winner: Player2
+
+Round182: 
+Player1: Card: 5-D
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round183: 
+Player1: Card: 6-C
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round184: 
+Player1: Card: K-S
+Player2: Card: 7-S
+Face: Tails
+Winner: Player2
+
+Round185: 
+Player1: Card: Q-D
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round186: 
+Player1: Card: J-D
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round187: 
+Player1: Card: K-C
+Player2: Card: 6-H
+Face: Heads
+Winner: Player1
+
+Round188: 
+Player1: Card: 8-C
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round189: 
+Player1: Card: 10-D
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round190: 
+Player1: Card: 4-H
+Player2: Card: 5-S
+Face: Tails
+Winner: Player1
+
+Round191: 
+Player1: Card: 9-S
+Player2: Card: 10-S
+Face: Tails
+Winner: Player1
+
+Round192: 
+Player1: Card: A-C
+Player2: Card: 3-C
+Face: Heads
+Winner: Player2
+
+Round193: 
+Player1: Card: 4-S
+Player2: Card: 9-C
+Face: Heads
+Winner: Player2
+
+Round194: 
+Player1: Card: 2-H
+Player2: Card: 8-D
+Face: Heads
+Winner: Player2
+
+Round195: 
+Player1: Card: 4-D
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round196: 
+Player1: Card: 6-S
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round197: 
+Player1: Card: 7-C
+Player2: Card: 7-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 2-C
+Player2: Card: K-S
+Player1: Card: 9-D
+Player2: Card: A-D
+Player1: Card: K-H
+Player2: Card: Q-D
+Player1: Card: 3-D
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round198: 
+Player1: Card: A-S
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round199: 
+Player1: Card: 5-C
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round200: 
+Player1: Card: 7-D
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round201: 
+Player1: Card: 8-S
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round202: 
+Player1: Card: 2-D
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round203: 
+Player1: Card: 10-C
+Player2: Card: 9-C
+Face: Heads
+Winner: Player1
+
+Round204: 
+Player1: Card: J-S
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round205: 
+Player1: Card: 3-H
+Player2: Card: 8-D
+Face: Heads
+Winner: Player2
+
+Round206: 
+Player1: Card: Q-C
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round207: 
+Player1: Card: 3-S
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round208: 
+Player1: Card: 6-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round209: 
+Player1: Card: 7-H
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round210: 
+Player1: Card: 4-C
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round211: 
+Player1: Card: J-C
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round212: 
+Player1: Card: 9-H
+Player2: Card: 9-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: Q-S
+Player2: Card: K-S
+Player1: Card: 8-H
+Player2: Card: 2-C
+Player1: Card: 2-S
+Player2: Card: 7-S
+Player1: Card: 5-D
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round213: 
+Player1: Card: K-D
+Player2: Card: J-D
+Face: Heads
+Winner: Player1
+
+Round214: 
+Player1: Card: 6-C
+Player2: Card: A-S
+Face: Tails
+Winner: Player2
+
+Round215: 
+Player1: Card: 6-H
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round216: 
+Player1: Card: K-C
+Player2: Card: 8-S
+Face: Heads
+Winner: Player1
+
+Round217: 
+Player1: Card: 10-H
+Player2: Card: 8-D
+Face: Tails
+Winner: Player2
+
+Round218: 
+Player1: Card: 8-C
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round219: 
+Player1: Card: 5-S
+Player2: Card: 3-D
+Face: Heads
+Winner: Player1
+
+Round220: 
+Player1: Card: 4-H
+Player2: Card: 6-D
+Face: Heads
+Winner: Player2
+
+Round221: 
+Player1: Card: 10-S
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round222: 
+Player1: Card: 9-S
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round223: 
+Player1: Card: 5-H
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round224: 
+Player1: Card: 4-D
+Player2: Card: 5-D
+Face: Tails
+Winner: Player1
+
+Round225: 
+Player1: Card: Q-H
+Player2: Card: 7-S
+Face: Tails
+Winner: Player2
+
+Round226: 
+Player1: Card: 6-S
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round227: 
+Player1: Card: J-H
+Player2: Card: 2-C
+Face: Tails
+Winner: Player2
+
+Round228: 
+Player1: Card: 5-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round229: 
+Player1: Card: 10-D
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round230: 
+Player1: Card: 7-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round231: 
+Player1: Card: A-C
+Player2: Card: 9-D
+Face: Tails
+Winner: Player1
+
+Round232: 
+Player1: Card: 2-D
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round233: 
+Player1: Card: 9-C
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round234: 
+Player1: Card: 10-C
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round235: 
+Player1: Card: 4-S
+Player2: Card: 8-D
+Face: Tails
+Winner: Player1
+
+Round236: 
+Player1: Card: J-S
+Player2: Card: 10-H
+Face: Tails
+Winner: Player2
+
+Round237: 
+Player1: Card: 2-H
+Player2: Card: 6-D
+Face: Tails
+Winner: Player1
+
+Round238: 
+Player1: Card: Q-C
+Player2: Card: 4-H
+Face: Tails
+Winner: Player2
+
+Round239: 
+Player1: Card: A-H
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round240: 
+Player1: Card: 3-S
+Player2: Card: 10-S
+Face: Heads
+Winner: Player2
+
+Round241: 
+Player1: Card: Q-D
+Player2: Card: 7-C
+Face: Heads
+Winner: Player1
+
+Round242: 
+Player1: Card: 7-H
+Player2: Card: 5-H
+Face: Heads
+Winner: Player1
+
+Round243: 
+Player1: Card: A-D
+Player2: Card: 7-S
+Face: Tails
+Winner: Player1
+
+Round244: 
+Player1: Card: J-C
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round245: 
+Player1: Card: J-D
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round246: 
+Player1: Card: K-D
+Player2: Card: J-H
+Face: Tails
+Winner: Player2
+
+Round247: 
+Player1: Card: 3-C
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round248: 
+Player1: Card: 6-H
+Player2: Card: 7-D
+Face: Tails
+Winner: Player1
+
+Round249: 
+Player1: Card: 8-S
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round250: 
+Player1: Card: K-C
+Player2: Card: 2-D
+Face: Heads
+Winner: Player1
+
+Round251: 
+Player1: Card: 3-H
+Player2: Card: 10-H
+Face: Heads
+Winner: Player2
+
+Round252: 
+Player1: Card: 8-C
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round253: 
+Player1: Card: 3-D
+Player2: Card: 4-H
+Face: Heads
+Winner: Player2
+
+Round254: 
+Player1: Card: 5-S
+Player2: Card: Q-C
+Face: Tails
+Winner: Player1
+
+Round255: 
+Player1: Card: 4-C
+Player2: Card: K-H
+Face: Tails
+Winner: Player1
+
+Round256: 
+Player1: Card: 9-S
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round257: 
+Player1: Card: 5-D
+Player2: Card: 10-S
+Face: Tails
+Winner: Player1
+
+Round258: 
+Player1: Card: 4-D
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round259: 
+Player1: Card: 2-S
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round260: 
+Player1: Card: 6-S
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round261: 
+Player1: Card: 8-H
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round262: 
+Player1: Card: 5-C
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round263: 
+Player1: Card: K-S
+Player2: Card: 10-H
+Face: Tails
+Winner: Player2
+
+Round264: 
+Player1: Card: 10-D
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round265: 
+Player1: Card: 9-D
+Player2: Card: 4-H
+Face: Tails
+Winner: Player2
+
+Round266: 
+Player1: Card: A-C
+Player2: Card: 3-D
+Face: Tails
+Winner: Player1
+
+Round267: 
+Player1: Card: A-S
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round268: 
+Player1: Card: 9-C
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round269: 
+Player1: Card: 6-C
+Player2: Card: 9-H
+Face: Tails
+Winner: Player1
+
+Round270: 
+Player1: Card: 10-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round271: 
+Player1: Card: 8-D
+Player2: Card: 8-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 4-S
+Player2: Card: 5-C
+Player1: Card: 6-D
+Player2: Card: 10-H
+Player1: Card: 2-H
+Player2: Card: K-S
+Player1: Card: 7-C
+Player2: Card: 4-H
+Face: Tails
+Winner: Player2
+
+Round272: 
+Player1: Card: Q-D
+Player2: Card: 9-D
+Face: Tails
+Winner: Player2
+
+Round273: 
+Player1: Card: 5-H
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round274: 
+Player1: Card: 7-H
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round275: 
+Player1: Card: 7-S
+Player2: Card: 4-H
+Face: Heads
+Winner: Player1
+
+Round276: 
+Player1: Card: A-D
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round277: 
+Player1: Card: Q-H
+Player2: Card: K-S
+Face: Heads
+Winner: Player2
+
+Round278: 
+Player1: Card: J-C
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round279: 
+Player1: Card: 2-C
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round280: 
+Player1: Card: J-D
+Player2: Card: 6-D
+Face: Heads
+Winner: Player1
+
+Round281: 
+Player1: Card: Q-S
+Player2: Card: 5-C
+Face: Tails
+Winner: Player2
+
+Round282: 
+Player1: Card: 3-C
+Player2: Card: 4-S
+Face: Heads
+Winner: Player2
+
+Round283: 
+Player1: Card: 7-D
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round284: 
+Player1: Card: 6-H
+Player2: Card: 8-D
+Face: Tails
+Winner: Player1
+
+Round285: 
+Player1: Card: 2-D
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round286: 
+Player1: Card: K-C
+Player2: Card: Q-D
+Face: Heads
+Winner: Player1
+
+Round287: 
+Player1: Card: J-S
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round288: 
+Player1: Card: 8-C
+Player2: Card: 5-H
+Face: Heads
+Winner: Player1
+
+Round289: 
+Player1: Card: Q-C
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round290: 
+Player1: Card: 5-S
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round291: 
+Player1: Card: K-H
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round292: 
+Player1: Card: 4-C
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round293: 
+Player1: Card: A-H
+Player2: Card: 5-C
+Face: Heads
+Winner: Player2
+
+Round294: 
+Player1: Card: 9-S
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round295: 
+Player1: Card: 10-S
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round296: 
+Player1: Card: 5-D
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round297: 
+Player1: Card: 3-S
+Player2: Card: 8-S
+Face: Tails
+Winner: Player1
+
+Round298: 
+Player1: Card: 4-D
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round299: 
+Player1: Card: K-D
+Player2: Card: 9-D
+Face: Tails
+Winner: Player2
+
+Round300: 
+Player1: Card: 6-S
+Player2: Card: 2-D
+Face: Heads
+Winner: Player1
+
+Round301: 
+Player1: Card: 3-H
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round302: 
+Player1: Card: 10-D
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round303: 
+Player1: Card: 3-D
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round304: 
+Player1: Card: A-C
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round305: 
+Player1: Card: J-H
+Player2: Card: J-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: A-S
+Player2: Card: 4-C
+Player1: Card: 2-S
+Player2: Card: 5-C
+Player1: Card: 9-C
+Player2: Card: A-H
+Player1: Card: 9-H
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round306: 
+Player1: Card: 6-C
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round307: 
+Player1: Card: 10-C
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round308: 
+Player1: Card: 7-H
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round309: 
+Player1: Card: 4-H
+Player2: Card: 7-D
+Face: Tails
+Winner: Player1
+
+Round310: 
+Player1: Card: 7-S
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round311: 
+Player1: Card: 7-C
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round312: 
+Player1: Card: A-D
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round313: 
+Player1: Card: 10-H
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round314: 
+Player1: Card: 2-C
+Player2: Card: 3-H
+Face: Tails
+Winner: Player1
+
+Round315: 
+Player1: Card: 6-D
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round316: 
+Player1: Card: J-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round317: 
+Player1: Card: 8-D
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round318: 
+Player1: Card: 6-H
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round319: 
+Player1: Card: Q-D
+Player2: Card: Q-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-C
+Player2: Card: 9-H
+Player1: Card: 5-H
+Player2: Card: A-H
+Player1: Card: 8-C
+Player2: Card: 9-C
+Player1: Card: K-S
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round320: 
+Player1: Card: Q-C
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round321: 
+Player1: Card: Q-H
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round322: 
+Player1: Card: 5-S
+Player2: Card: A-S
+Face: Tails
+Winner: Player2
+
+Round323: 
+Player1: Card: 4-S
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round324: 
+Player1: Card: 10-S
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round325: 
+Player1: Card: 8-S
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round326: 
+Player1: Card: 3-S
+Player2: Card: 6-C
+Face: Heads
+Winner: Player2
+
+Round327: 
+Player1: Card: 2-D
+Player2: Card: 3-C
+Face: Tails
+Winner: Player1
+
+Round328: 
+Player1: Card: 6-S
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round329: 
+Player1: Card: J-S
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round330: 
+Player1: Card: 10-D
+Player2: Card: 7-C
+Face: Tails
+Winner: Player2
+
+Round331: 
+Player1: Card: 5-D
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round332: 
+Player1: Card: 7-H
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round333: 
+Player1: Card: 7-D
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round334: 
+Player1: Card: 4-H
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round335: 
+Player1: Card: 4-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round336: 
+Player1: Card: 7-S
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round337: 
+Player1: Card: 3-H
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round338: 
+Player1: Card: 2-C
+Player2: Card: 8-D
+Face: Tails
+Winner: Player1
+
+Round339: 
+Player1: Card: 2-H
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round340: 
+Player1: Card: 6-D
+Player2: Card: 6-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-C
+Player2: Card: A-S
+Player1: Card: K-S
+Player2: Card: 5-S
+Player1: Card: 9-C
+Player2: Card: J-H
+Player1: Card: 8-C
+Player2: Card: 10-S
+Face: Heads
+Winner: Player2
+
+Round341: 
+Player1: Card: A-H
+Player2: Card: 6-C
+Face: Heads
+Winner: Player2
+
+Round342: 
+Player1: Card: 5-H
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round343: 
+Player1: Card: 9-H
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round344: 
+Player1: Card: K-C
+Player2: Card: 6-S
+Face: Heads
+Winner: Player1
+
+Round345: 
+Player1: Card: Q-S
+Player2: Card: 7-C
+Face: Tails
+Winner: Player2
+
+Round346: 
+Player1: Card: Q-D
+Player2: Card: 10-D
+Face: Heads
+Winner: Player1
+
+Round347: 
+Player1: Card: 2-S
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round348: 
+Player1: Card: Q-C
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round349: 
+Player1: Card: 4-C
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round350: 
+Player1: Card: Q-H
+Player2: Card: 7-D
+Face: Tails
+Winner: Player2
+
+Round351: 
+Player1: Card: J-C
+Player2: Card: 3-D
+Face: Heads
+Winner: Player1
+
+Round352: 
+Player1: Card: 4-S
+Player2: Card: 4-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 9-S
+Player2: Card: J-D
+Player1: Card: 8-S
+Player2: Card: 7-S
+Player1: Card: 3-C
+Player2: Card: K-H
+Player1: Card: 2-D
+Player2: Card: 3-H
+Face: Heads
+Winner: Player2
+
+Round353: 
+Player1: Card: 9-D
+Player2: Card: 10-S
+Face: Tails
+Winner: Player1
+
+Round354: 
+Player1: Card: J-S
+Player2: Card: 8-C
+Face: Tails
+Winner: Player2
+
+Round355: 
+Player1: Card: A-D
+Player2: Card: J-H
+Face: Heads
+Winner: Player2
+
+Round356: 
+Player1: Card: 7-H
+Player2: Card: 9-C
+Face: Tails
+Winner: Player1
+
+Round357: 
+Player1: Card: 10-H
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round358: 
+Player1: Card: 4-H
+Player2: Card: K-S
+Face: Heads
+Winner: Player2
+
+Round359: 
+Player1: Card: 8-D
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round360: 
+Player1: Card: 2-C
+Player2: Card: 5-C
+Face: Tails
+Winner: Player1
+
+Round361: 
+Player1: Card: A-C
+Player2: Card: 6-H
+Face: Heads
+Winner: Player2
+
+Round362: 
+Player1: Card: 2-H
+Player2: Card: 6-D
+Face: Tails
+Winner: Player1
+
+Round363: 
+Player1: Card: 6-S
+Player2: Card: 6-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-C
+Player2: Card: A-H
+Player1: Card: 10-D
+Player2: Card: 3-S
+Player1: Card: Q-D
+Player2: Card: 5-H
+Player1: Card: 5-D
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round364: 
+Player1: Card: Q-C
+Player2: Card: 9-H
+Face: Tails
+Winner: Player2
+
+Round365: 
+Player1: Card: 3-D
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round366: 
+Player1: Card: J-C
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round367: 
+Player1: Card: 10-S
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round368: 
+Player1: Card: 9-D
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round369: 
+Player1: Card: 9-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round370: 
+Player1: Card: 7-H
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round371: 
+Player1: Card: 5-S
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round372: 
+Player1: Card: 10-H
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round373: 
+Player1: Card: A-S
+Player2: Card: 3-H
+Face: Heads
+Winner: Player2
+
+Round374: 
+Player1: Card: 8-D
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round375: 
+Player1: Card: 5-C
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round376: 
+Player1: Card: 2-C
+Player2: Card: 3-C
+Face: Tails
+Winner: Player1
+
+Round377: 
+Player1: Card: 6-D
+Player2: Card: 7-S
+Face: Heads
+Winner: Player2
+
+Round378: 
+Player1: Card: 2-H
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round379: 
+Player1: Card: 7-C
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round380: 
+Player1: Card: 3-D
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round381: 
+Player1: Card: K-D
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round382: 
+Player1: Card: 10-S
+Player2: Card: 4-S
+Face: Tails
+Winner: Player2
+
+Round383: 
+Player1: Card: 2-S
+Player2: Card: 8-C
+Face: Tails
+Winner: Player1
+
+Round384: 
+Player1: Card: 9-D
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round385: 
+Player1: Card: Q-H
+Player2: Card: J-H
+Face: Tails
+Winner: Player2
+
+Round386: 
+Player1: Card: 10-H
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round387: 
+Player1: Card: 3-C
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round388: 
+Player1: Card: 2-C
+Player2: Card: 4-H
+Face: Heads
+Winner: Player2
+
+Round389: 
+Player1: Card: J-D
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round390: 
+Player1: Card: 7-C
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round391: 
+Player1: Card: 9-S
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round392: 
+Player1: Card: 3-D
+Player2: Card: 5-D
+Face: Tails
+Winner: Player1
+
+Round393: 
+Player1: Card: 4-D
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round394: 
+Player1: Card: K-D
+Player2: Card: Q-D
+Face: Tails
+Winner: Player2
+
+Round395: 
+Player1: Card: 8-C
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round396: 
+Player1: Card: 2-S
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round397: 
+Player1: Card: J-S
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round398: 
+Player1: Card: 9-D
+Player2: Card: K-C
+Face: Heads
+Winner: Player2
+
+Round399: 
+Player1: Card: K-S
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round400: 
+Player1: Card: 3-C
+Player2: Card: 6-S
+Face: Heads
+Winner: Player2
+
+Round401: 
+Player1: Card: 10-C
+Player2: Card: 9-H
+Face: Tails
+Winner: Player2
+
+Round402: 
+Player1: Card: 9-S
+Player2: Card: Q-C
+Face: Heads
+Winner: Player2
+
+Round403: 
+Player1: Card: 5-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round404: 
+Player1: Card: 3-D
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round405: 
+Player1: Card: 5-H
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round406: 
+Player1: Card: 4-D
+Player2: Card: 9-C
+Face: Tails
+Winner: Player1
+
+Round407: 
+Player1: Card: 3-S
+Player2: Card: 4-C
+Face: Tails
+Winner: Player1
+
+Round408: 
+Player1: Card: 8-C
+Player2: Card: 7-H
+Face: Heads
+Winner: Player1
+
+Round409: 
+Player1: Card: 10-D
+Player2: Card: 7-D
+Face: Tails
+Winner: Player2
+
+Round410: 
+Player1: Card: 2-S
+Player2: Card: 5-S
+Face: Heads
+Winner: Player2
+
+Round411: 
+Player1: Card: A-H
+Player2: Card: 3-H
+Face: Heads
+Winner: Player2
+
+Round412: 
+Player1: Card: J-S
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round413: 
+Player1: Card: 6-C
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round414: 
+Player1: Card: K-S
+Player2: Card: 8-D
+Face: Heads
+Winner: Player1
+
+Round415: 
+Player1: Card: J-C
+Player2: Card: K-H
+Face: Tails
+Winner: Player1
+
+Round416: 
+Player1: Card: 3-D
+Player2: Card: 5-C
+Face: Tails
+Winner: Player1
+
+Round417: 
+Player1: Card: 8-H
+Player2: Card: 7-S
+Face: Tails
+Winner: Player2
+
+Round418: 
+Player1: Card: 5-H
+Player2: Card: 6-D
+Face: Tails
+Winner: Player1
+
+Round419: 
+Player1: Card: 9-C
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round420: 
+Player1: Card: 4-D
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round421: 
+Player1: Card: 4-C
+Player2: Card: 4-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 3-S
+Player2: Card: 10-S
+Player1: Card: 7-H
+Player2: Card: J-H
+Player1: Card: 8-C
+Player2: Card: Q-H
+Player1: Card: A-S
+Player2: Card: A-D
+Player1: Card: J-S
+Player2: Card: 10-H
+Player1: Card: 8-D
+Player2: Card: 4-H
+Player1: Card: K-S
+Player2: Card: 2-C
+Player1: Card: K-H
+Player2: Card: 6-H
+Face: Heads
+Winner: Player1
+
+Round422: 
+Player1: Card: J-C
+Player2: Card: J-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-C
+Player2: Card: A-C
+Player1: Card: 3-D
+Player2: Card: 7-C
+Player1: Card: 6-D
+Player2: Card: Q-D
+Player1: Card: 5-H
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round423: 
+Player1: Card: 2-H
+Player2: Card: K-C
+Face: Heads
+Winner: Player2
+
+Round424: 
+Player1: Card: 4-D
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round425: 
+Player1: Card: 6-H
+Player2: Card: 6-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-H
+Player2: Card: 3-C
+Player1: Card: 2-C
+Player2: Card: 9-H
+Player1: Card: K-S
+Player2: Card: 10-C
+Player1: Card: 4-H
+Player2: Card: Q-C
+Face: Heads
+Winner: Player2
+
+Round426: 
+Player1: Card: 8-D
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round427: 
+Player1: Card: 10-H
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round428: 
+Player1: Card: J-S
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round429: 
+Player1: Card: A-D
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round430: 
+Player1: Card: A-S
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round431: 
+Player1: Card: Q-H
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round432: 
+Player1: Card: 8-C
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round433: 
+Player1: Card: J-H
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round434: 
+Player1: Card: 7-H
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round435: 
+Player1: Card: 10-S
+Player2: Card: 2-D
+Face: Heads
+Winner: Player1
+
+Round436: 
+Player1: Card: 3-S
+Player2: Card: 6-C
+Face: Tails
+Winner: Player1
+
+Round437: 
+Player1: Card: 4-S
+Player2: Card: 7-S
+Face: Heads
+Winner: Player2
+
+Round438: 
+Player1: Card: 4-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round439: 
+Player1: Card: 5-D
+Player2: Card: 8-S
+Face: Tails
+Winner: Player1
+
+Round440: 
+Player1: Card: J-S
+Player2: Card: 9-C
+Face: Heads
+Winner: Player1
+
+Round441: 
+Player1: Card: 10-D
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round442: 
+Player1: Card: A-S
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round443: 
+Player1: Card: 5-S
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round444: 
+Player1: Card: Q-H
+Player2: Card: 6-D
+Face: Heads
+Winner: Player1
+
+Round445: 
+Player1: Card: A-H
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round446: 
+Player1: Card: 7-H
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round447: 
+Player1: Card: 2-D
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round448: 
+Player1: Card: 10-S
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round449: 
+Player1: Card: 6-C
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round450: 
+Player1: Card: 3-S
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round451: 
+Player1: Card: 8-H
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round452: 
+Player1: Card: 4-C
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round453: 
+Player1: Card: 8-S
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round454: 
+Player1: Card: 5-D
+Player2: Card: 4-D
+Face: Tails
+Winner: Player2
+
+Round455: 
+Player1: Card: 9-C
+Player2: Card: Q-C
+Face: Tails
+Winner: Player1
+
+Round456: 
+Player1: Card: J-S
+Player2: Card: 4-H
+Face: Heads
+Winner: Player1
+
+Round457: 
+Player1: Card: 5-H
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round458: 
+Player1: Card: A-S
+Player2: Card: K-S
+Face: Heads
+Winner: Player2
+
+Round459: 
+Player1: Card: Q-D
+Player2: Card: 9-H
+Face: Heads
+Winner: Player1
+
+Round460: 
+Player1: Card: 5-S
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round461: 
+Player1: Card: 6-D
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round462: 
+Player1: Card: Q-H
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round463: 
+Player1: Card: A-C
+Player2: Card: 6-S
+Face: Heads
+Winner: Player2
+
+Round464: 
+Player1: Card: 2-D
+Player2: Card: 6-H
+Face: Tails
+Winner: Player1
+
+Round465: 
+Player1: Card: 5-C
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round466: 
+Player1: Card: 10-S
+Player2: Card: 8-D
+Face: Tails
+Winner: Player2
+
+Round467: 
+Player1: Card: J-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round468: 
+Player1: Card: 6-C
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round469: 
+Player1: Card: K-C
+Player2: Card: 7-D
+Face: Heads
+Winner: Player1
+
+Round470: 
+Player1: Card: 8-H
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round471: 
+Player1: Card: Q-C
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round472: 
+Player1: Card: 9-C
+Player2: Card: 8-C
+Face: Tails
+Winner: Player2
+
+Round473: 
+Player1: Card: 4-H
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round474: 
+Player1: Card: J-S
+Player2: Card: J-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 10-C
+Player2: Card: 7-S
+Player1: Card: 5-H
+Player2: Card: 4-S
+Player1: Card: 9-H
+Player2: Card: K-D
+Player1: Card: Q-D
+Player2: Card: 10-D
+Face: Heads
+Winner: Player1
+
+Round475: 
+Player1: Card: 2-C
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round476: 
+Player1: Card: 5-S
+Player2: Card: A-H
+Face: Tails
+Winner: Player2
+
+Round477: 
+Player1: Card: 3-C
+Player2: Card: 3-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 6-D
+Player2: Card: 7-H
+Player1: Card: 6-H
+Player2: Card: J-C
+Player1: Card: 2-D
+Player2: Card: 3-S
+Player1: Card: 10-H
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round478: 
+Player1: Card: 6-C
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round479: 
+Player1: Card: 7-D
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round480: 
+Player1: Card: K-C
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round481: 
+Player1: Card: 3-H
+Player2: Card: 4-D
+Face: Tails
+Winner: Player1
+
+Round482: 
+Player1: Card: 4-H
+Player2: Card: 5-D
+Face: Tails
+Winner: Player1
+
+Round483: 
+Player1: Card: 10-D
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round484: 
+Player1: Card: Q-D
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round485: 
+Player1: Card: K-D
+Player2: Card: K-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 9-H
+Player2: Card: Q-H
+Player1: Card: 4-S
+Player2: Card: 6-S
+Player1: Card: 5-H
+Player2: Card: A-C
+Player1: Card: 7-S
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round486: 
+Player1: Card: 10-C
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round487: 
+Player1: Card: J-H
+Player2: Card: 8-D
+Face: Heads
+Winner: Player1
+
+Round488: 
+Player1: Card: J-S
+Player2: Card: 10-S
+Face: Tails
+Winner: Player2
+
+Round489: 
+Player1: Card: 4-D
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round490: 
+Player1: Card: 3-H
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round491: 
+Player1: Card: 5-D
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round492: 
+Player1: Card: 4-H
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round493: 
+Player1: Card: K-S
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round494: 
+Player1: Card: 10-D
+Player2: Card: Q-C
+Face: Heads
+Winner: Player2
+
+Round495: 
+Player1: Card: A-S
+Player2: Card: 8-C
+Face: Tails
+Winner: Player1
+
+Round496: 
+Player1: Card: Q-D
+Player2: Card: 9-C
+Face: Heads
+Winner: Player1
+
+Round497: 
+Player1: Card: 9-S
+Player2: Card: 7-C
+Face: Tails
+Winner: Player2
+
+Round498: 
+Player1: Card: 7-S
+Player2: Card: 2-C
+Face: Tails
+Winner: Player2
+
+Round499: 
+Player1: Card: A-C
+Player2: Card: A-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-H
+Player2: Card: 5-S
+Player1: Card: 6-S
+Player2: Card: 2-H
+Player1: Card: 4-S
+Player2: Card: 10-H
+Player1: Card: Q-H
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round500: 
+Player1: Card: 9-H
+Player2: Card: 2-D
+Face: Heads
+Winner: Player1
+
+Round501: 
+Player1: Card: K-H
+Player2: Card: J-C
+Face: Tails
+Winner: Player2
+
+Round502: 
+Player1: Card: K-D
+Player2: Card: 6-H
+Face: Heads
+Winner: Player1
+
+Round503: 
+Player1: Card: 5-C
+Player2: Card: 7-H
+Face: Heads
+Winner: Player2
+
+Round504: 
+Player1: Card: 10-C
+Player2: Card: 6-D
+Face: Tails
+Winner: Player2
+
+Round505: 
+Player1: Card: 8-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round506: 
+Player1: Card: J-H
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round507: 
+Player1: Card: Q-S
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round508: 
+Player1: Card: 4-D
+Player2: Card: 6-C
+Face: Heads
+Winner: Player2
+
+Round509: 
+Player1: Card: J-D
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round510: 
+Player1: Card: 3-H
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round511: 
+Player1: Card: 8-H
+Player2: Card: 8-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 4-H
+Player2: Card: K-C
+Player1: Card: 8-C
+Player2: Card: 10-S
+Player1: Card: A-S
+Player2: Card: J-S
+Player1: Card: 9-C
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round512: 
+Player1: Card: Q-D
+Player2: Card: 5-D
+Face: Tails
+Winner: Player2
+
+Round513: 
+Player1: Card: 3-S
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round514: 
+Player1: Card: Q-H
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round515: 
+Player1: Card: 10-H
+Player2: Card: Q-C
+Face: Tails
+Winner: Player1
+
+Round516: 
+Player1: Card: 4-S
+Player2: Card: 10-D
+Face: Heads
+Winner: Player2
+
+Round517: 
+Player1: Card: 2-H
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round518: 
+Player1: Card: 6-S
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round519: 
+Player1: Card: 5-S
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round520: 
+Player1: Card: 5-H
+Player2: Card: 7-S
+Face: Tails
+Winner: Player1
+
+Round521: 
+Player1: Card: A-H
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round522: 
+Player1: Card: A-C
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round523: 
+Player1: Card: 2-D
+Player2: Card: 7-H
+Face: Heads
+Winner: Player2
+
+Round524: 
+Player1: Card: 9-H
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round525: 
+Player1: Card: 6-H
+Player2: Card: 6-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-D
+Player2: Card: 10-C
+Player1: Card: 3-C
+Player2: Card: 3-D
+Player1: Card: J-H
+Player2: Card: 8-D
+Player1: Card: 9-D
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round526: 
+Player1: Card: J-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round527: 
+Player1: Card: A-D
+Player2: Card: 6-C
+Face: Heads
+Winner: Player2
+
+Round528: 
+Player1: Card: 9-C
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round529: 
+Player1: Card: J-S
+Player2: Card: 7-D
+Face: Tails
+Winner: Player2
+
+Round530: 
+Player1: Card: A-S
+Player2: Card: 3-H
+Face: Tails
+Winner: Player1
+
+Round531: 
+Player1: Card: 10-S
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round532: 
+Player1: Card: 8-C
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round533: 
+Player1: Card: K-C
+Player2: Card: 10-D
+Face: Tails
+Winner: Player2
+
+Round534: 
+Player1: Card: 4-H
+Player2: Card: 4-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 8-S
+Player2: Card: J-C
+Player1: Card: 8-H
+Player2: Card: A-H
+Player1: Card: 2-S
+Player2: Card: K-H
+Player1: Card: 3-S
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round535: 
+Player1: Card: K-S
+Player2: Card: 7-H
+Face: Heads
+Winner: Player1
+
+Round536: 
+Player1: Card: Q-H
+Player2: Card: 2-D
+Face: Tails
+Winner: Player2
+
+Round537: 
+Player1: Card: Q-C
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round538: 
+Player1: Card: 10-H
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round539: 
+Player1: Card: 7-C
+Player2: Card: 8-D
+Face: Tails
+Winner: Player1
+
+Round540: 
+Player1: Card: 2-H
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round541: 
+Player1: Card: 9-S
+Player2: Card: 3-D
+Face: Tails
+Winner: Player2
+
+Round542: 
+Player1: Card: 6-S
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round543: 
+Player1: Card: 2-C
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round544: 
+Player1: Card: 5-S
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round545: 
+Player1: Card: 7-S
+Player2: Card: 6-D
+Face: Heads
+Winner: Player1
+
+Round546: 
+Player1: Card: 5-H
+Player2: Card: 6-H
+Face: Tails
+Winner: Player1
+
+Round547: 
+Player1: Card: 5-C
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round548: 
+Player1: Card: 9-H
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round549: 
+Player1: Card: 4-D
+Player2: Card: 6-C
+Face: Tails
+Winner: Player1
+
+Round550: 
+Player1: Card: 9-C
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round551: 
+Player1: Card: 3-H
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round552: 
+Player1: Card: A-S
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round553: 
+Player1: Card: 5-D
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round554: 
+Player1: Card: 10-S
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round555: 
+Player1: Card: Q-D
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round556: 
+Player1: Card: 8-C
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round557: 
+Player1: Card: 7-H
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round558: 
+Player1: Card: K-S
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round559: 
+Player1: Card: 4-C
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round560: 
+Player1: Card: Q-C
+Player2: Card: 8-H
+Face: Heads
+Winner: Player1
+
+Round561: 
+Player1: Card: 9-D
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round562: 
+Player1: Card: 10-H
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round563: 
+Player1: Card: 8-D
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round564: 
+Player1: Card: 7-C
+Player2: Card: 4-H
+Face: Heads
+Winner: Player1
+
+Round565: 
+Player1: Card: J-H
+Player2: Card: 2-D
+Face: Heads
+Winner: Player1
+
+Round566: 
+Player1: Card: 2-H
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round567: 
+Player1: Card: 3-C
+Player2: Card: 3-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 6-S
+Player2: Card: 9-S
+Player1: Card: 10-C
+Player2: Card: K-D
+Player1: Card: 2-C
+Player2: Card: 5-S
+Player1: Card: 6-D
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round568: 
+Player1: Card: 7-S
+Player2: Card: 5-C
+Face: Heads
+Winner: Player1
+
+Round569: 
+Player1: Card: 6-H
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round570: 
+Player1: Card: 5-H
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round571: 
+Player1: Card: 6-C
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round572: 
+Player1: Card: 4-D
+Player2: Card: 9-C
+Face: Heads
+Winner: Player2
+
+Round573: 
+Player1: Card: 10-D
+Player2: Card: 7-D
+Face: Heads
+Winner: Player1
+
+Round574: 
+Player1: Card: 5-D
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round575: 
+Player1: Card: K-C
+Player2: Card: J-S
+Face: Tails
+Winner: Player2
+
+Round576: 
+Player1: Card: 10-S
+Player2: Card: A-S
+Face: Tails
+Winner: Player2
+
+Round577: 
+Player1: Card: 3-S
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round578: 
+Player1: Card: 8-C
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round579: 
+Player1: Card: 2-S
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round580: 
+Player1: Card: K-S
+Player2: Card: 7-H
+Face: Heads
+Winner: Player1
+
+Round581: 
+Player1: Card: A-H
+Player2: Card: 8-S
+Face: Tails
+Winner: Player1
+
+Round582: 
+Player1: Card: 4-C
+Player2: Card: 10-H
+Face: Heads
+Winner: Player2
+
+Round583: 
+Player1: Card: 8-H
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round584: 
+Player1: Card: Q-C
+Player2: Card: 6-D
+Face: Heads
+Winner: Player1
+
+Round585: 
+Player1: Card: J-C
+Player2: Card: 5-S
+Face: Tails
+Winner: Player2
+
+Round586: 
+Player1: Card: 9-D
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round587: 
+Player1: Card: 4-S
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round588: 
+Player1: Card: 8-D
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round589: 
+Player1: Card: 4-H
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round590: 
+Player1: Card: 7-C
+Player2: Card: 6-S
+Face: Tails
+Winner: Player2
+
+Round591: 
+Player1: Card: 2-D
+Player2: Card: 3-D
+Face: Tails
+Winner: Player1
+
+Round592: 
+Player1: Card: J-H
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round593: 
+Player1: Card: Q-H
+Player2: Card: 9-H
+Face: Heads
+Winner: Player1
+
+Round594: 
+Player1: Card: 2-H
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round595: 
+Player1: Card: 5-C
+Player2: Card: A-D
+Face: Tails
+Winner: Player2
+
+Round596: 
+Player1: Card: 7-S
+Player2: Card: 6-C
+Face: Tails
+Winner: Player2
+
+Round597: 
+Player1: Card: J-D
+Player2: Card: 9-C
+Face: Heads
+Winner: Player1
+
+Round598: 
+Player1: Card: 6-H
+Player2: Card: 4-D
+Face: Tails
+Winner: Player2
+
+Round599: 
+Player1: Card: 7-D
+Player2: Card: 3-H
+Face: Tails
+Winner: Player2
+
+Round600: 
+Player1: Card: 10-D
+Player2: Card: 5-D
+Face: Heads
+Winner: Player1
+
+Round601: 
+Player1: Card: A-C
+Player2: Card: J-S
+Face: Tails
+Winner: Player1
+
+Round602: 
+Player1: Card: 3-S
+Player2: Card: K-C
+Face: Heads
+Winner: Player2
+
+Round603: 
+Player1: Card: Q-D
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round604: 
+Player1: Card: 8-C
+Player2: Card: 10-S
+Face: Tails
+Winner: Player1
+
+Round605: 
+Player1: Card: 7-H
+Player2: Card: K-H
+Face: Tails
+Winner: Player1
+
+Round606: 
+Player1: Card: K-S
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round607: 
+Player1: Card: 8-S
+Player2: Card: 10-H
+Face: Heads
+Winner: Player2
+
+Round608: 
+Player1: Card: A-H
+Player2: Card: 4-C
+Face: Tails
+Winner: Player1
+
+Round609: 
+Player1: Card: Q-S
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round610: 
+Player1: Card: 8-H
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round611: 
+Player1: Card: 6-D
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round612: 
+Player1: Card: Q-C
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round613: 
+Player1: Card: 2-C
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round614: 
+Player1: Card: 9-D
+Player2: Card: 8-D
+Face: Heads
+Winner: Player1
+
+Round615: 
+Player1: Card: 9-S
+Player2: Card: 6-S
+Face: Heads
+Winner: Player1
+
+Round616: 
+Player1: Card: 4-H
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round617: 
+Player1: Card: 3-D
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round618: 
+Player1: Card: 2-D
+Player2: Card: 5-C
+Face: Tails
+Winner: Player1
+
+Round619: 
+Player1: Card: 3-C
+Player2: Card: 6-C
+Face: Heads
+Winner: Player2
+
+Round620: 
+Player1: Card: J-H
+Player2: Card: 7-S
+Face: Heads
+Winner: Player1
+
+Round621: 
+Player1: Card: 9-H
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round622: 
+Player1: Card: Q-H
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round623: 
+Player1: Card: 5-H
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round624: 
+Player1: Card: 2-H
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round625: 
+Player1: Card: 9-C
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round626: 
+Player1: Card: J-D
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round627: 
+Player1: Card: 5-D
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round628: 
+Player1: Card: 10-D
+Player2: Card: 8-S
+Face: Tails
+Winner: Player2
+
+Round629: 
+Player1: Card: J-S
+Player2: Card: J-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: A-C
+Player2: Card: 8-H
+Player1: Card: A-S
+Player2: Card: K-D
+Player1: Card: Q-D
+Player2: Card: 6-D
+Player1: Card: 10-S
+Player2: Card: 10-C
+Player1: Card: 8-C
+Player2: Card: 2-C
+Player1: Card: K-H
+Player2: Card: 6-C
+Player1: Card: 7-H
+Player2: Card: 3-C
+Player1: Card: 2-S
+Player2: Card: 6-H
+Face: Heads
+Winner: Player2
+
+Round630: 
+Player1: Card: K-S
+Player2: Card: Q-H
+Face: Heads
+Winner: Player1
+
+Round631: 
+Player1: Card: 4-C
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round632: 
+Player1: Card: A-H
+Player2: Card: 2-H
+Face: Tails
+Winner: Player1
+
+Round633: 
+Player1: Card: 5-S
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round634: 
+Player1: Card: Q-S
+Player2: Card: 10-D
+Face: Heads
+Winner: Player1
+
+Round635: 
+Player1: Card: 4-S
+Player2: Card: 6-H
+Face: Tails
+Winner: Player1
+
+Round636: 
+Player1: Card: Q-C
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round637: 
+Player1: Card: 8-D
+Player2: Card: 3-C
+Face: Heads
+Winner: Player1
+
+Round638: 
+Player1: Card: 9-D
+Player2: Card: 7-H
+Face: Tails
+Winner: Player2
+
+Round639: 
+Player1: Card: 6-S
+Player2: Card: 6-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 9-S
+Player2: Card: K-H
+Player1: Card: 7-C
+Player2: Card: 2-C
+Player1: Card: 4-H
+Player2: Card: 8-C
+Player1: Card: A-D
+Player2: Card: 10-C
+Face: Heads
+Winner: Player2
+
+Round640: 
+Player1: Card: 3-D
+Player2: Card: 10-S
+Face: Heads
+Winner: Player2
+
+Round641: 
+Player1: Card: 5-C
+Player2: Card: 6-D
+Face: Tails
+Winner: Player1
+
+Round642: 
+Player1: Card: 2-D
+Player2: Card: Q-D
+Face: Tails
+Winner: Player1
+
+Round643: 
+Player1: Card: 7-S
+Player2: Card: K-D
+Face: Heads
+Winner: Player2
+
+Round644: 
+Player1: Card: J-H
+Player2: Card: A-S
+Face: Tails
+Winner: Player2
+
+Round645: 
+Player1: Card: 4-D
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round646: 
+Player1: Card: 9-H
+Player2: Card: A-C
+Face: Tails
+Winner: Player2
+
+Round647: 
+Player1: Card: 3-H
+Player2: Card: J-C
+Face: Tails
+Winner: Player1
+
+Round648: 
+Player1: Card: 5-H
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round649: 
+Player1: Card: K-C
+Player2: Card: 7-D
+Face: Heads
+Winner: Player1
+
+Round650: 
+Player1: Card: 9-C
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round651: 
+Player1: Card: 3-S
+Player2: Card: 8-S
+Face: Heads
+Winner: Player2
+
+Round652: 
+Player1: Card: J-D
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round653: 
+Player1: Card: 10-H
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round654: 
+Player1: Card: 5-D
+Player2: Card: Q-C
+Face: Heads
+Winner: Player2
+
+Round655: 
+Player1: Card: Q-H
+Player2: Card: 7-H
+Face: Tails
+Winner: Player2
+
+Round656: 
+Player1: Card: K-S
+Player2: Card: 9-D
+Face: Heads
+Winner: Player1
+
+Round657: 
+Player1: Card: 2-H
+Player2: Card: 10-C
+Face: Tails
+Winner: Player1
+
+Round658: 
+Player1: Card: A-H
+Player2: Card: A-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 10-D
+Player2: Card: 8-C
+Player1: Card: Q-S
+Player2: Card: 4-H
+Player1: Card: 6-H
+Player2: Card: 2-C
+Player1: Card: 4-S
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+Round659: 
+Player1: Card: 3-C
+Player2: Card: K-H
+Face: Tails
+Winner: Player1
+
+Round660: 
+Player1: Card: 8-D
+Player2: Card: 9-S
+Face: Tails
+Winner: Player1
+
+Round661: 
+Player1: Card: 6-D
+Player2: Card: 6-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-C
+Player2: Card: 6-S
+Player1: Card: Q-D
+Player2: Card: 10-S
+Player1: Card: 2-D
+Player2: Card: 3-D
+Player1: Card: J-C
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round662: 
+Player1: Card: 3-H
+Player2: Card: 7-S
+Face: Heads
+Winner: Player2
+
+Round663: 
+Player1: Card: 7-D
+Player2: Card: A-S
+Face: Heads
+Winner: Player1
+
+Round664: 
+Player1: Card: K-C
+Player2: Card: J-H
+Face: Heads
+Winner: Player1
+
+Round665: 
+Player1: Card: 4-C
+Player2: Card: 8-H
+Face: Tails
+Winner: Player1
+
+Round666: 
+Player1: Card: 9-C
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round667: 
+Player1: Card: 5-S
+Player2: Card: A-C
+Face: Heads
+Winner: Player1
+
+Round668: 
+Player1: Card: J-D
+Player2: Card: 9-H
+Face: Tails
+Winner: Player2
+
+Round669: 
+Player1: Card: 2-S
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round670: 
+Player1: Card: 10-H
+Player2: Card: 5-H
+Face: Tails
+Winner: Player2
+
+Round671: 
+Player1: Card: 9-D
+Player2: Card: 8-S
+Face: Heads
+Winner: Player1
+
+Round672: 
+Player1: Card: K-S
+Player2: Card: 3-S
+Face: Heads
+Winner: Player1
+
+Round673: 
+Player1: Card: 10-C
+Player2: Card: Q-C
+Face: Tails
+Winner: Player1
+
+Round674: 
+Player1: Card: 2-H
+Player2: Card: 5-D
+Face: Heads
+Winner: Player2
+
+Round675: 
+Player1: Card: K-H
+Player2: Card: 7-H
+Face: Tails
+Winner: Player2
+
+Round676: 
+Player1: Card: 3-C
+Player2: Card: Q-H
+Face: Heads
+Winner: Player2
+
+Round677: 
+Player1: Card: 9-S
+Player2: Card: 7-C
+Face: Heads
+Winner: Player1
+
+Round678: 
+Player1: Card: 8-D
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round679: 
+Player1: Card: K-D
+Player2: Card: 2-C
+Face: Heads
+Winner: Player1
+
+Round680: 
+Player1: Card: J-C
+Player2: Card: 6-H
+Face: Heads
+Winner: Player1
+
+Round681: 
+Player1: Card: 3-D
+Player2: Card: 4-H
+Face: Tails
+Winner: Player1
+
+Round682: 
+Player1: Card: 2-D
+Player2: Card: Q-S
+Face: Tails
+Winner: Player1
+
+Round683: 
+Player1: Card: 10-S
+Player2: Card: 8-C
+Face: Heads
+Winner: Player1
+
+Round684: 
+Player1: Card: Q-D
+Player2: Card: 10-D
+Face: Tails
+Winner: Player2
+
+Round685: 
+Player1: Card: 6-S
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round686: 
+Player1: Card: 5-C
+Player2: Card: A-H
+Face: Heads
+Winner: Player1
+
+Round687: 
+Player1: Card: 6-C
+Player2: Card: 7-S
+Face: Heads
+Winner: Player2
+
+Round688: 
+Player1: Card: 6-D
+Player2: Card: 3-H
+Face: Heads
+Winner: Player1
+
+Round689: 
+Player1: Card: A-S
+Player2: Card: 9-H
+Face: Tails
+Winner: Player1
+
+Round690: 
+Player1: Card: 7-D
+Player2: Card: J-D
+Face: Tails
+Winner: Player1
+
+Round691: 
+Player1: Card: J-H
+Player2: Card: J-S
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: K-C
+Player2: Card: 2-S
+Player1: Card: 8-H
+Player2: Card: 5-H
+Player1: Card: 4-C
+Player2: Card: 10-H
+Player1: Card: 4-D
+Player2: Card: 5-D
+Face: Heads
+Winner: Player2
+
+Round692: 
+Player1: Card: 9-C
+Player2: Card: 2-H
+Face: Tails
+Winner: Player2
+
+Round693: 
+Player1: Card: A-C
+Player2: Card: 7-H
+Face: Tails
+Winner: Player1
+
+Round694: 
+Player1: Card: 5-S
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round695: 
+Player1: Card: 8-S
+Player2: Card: Q-H
+Face: Tails
+Winner: Player1
+
+Round696: 
+Player1: Card: 9-D
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round697: 
+Player1: Card: 3-S
+Player2: Card: 10-D
+Face: Heads
+Winner: Player2
+
+Round698: 
+Player1: Card: K-S
+Player2: Card: Q-D
+Face: Heads
+Winner: Player1
+
+Round699: 
+Player1: Card: Q-C
+Player2: Card: 7-S
+Face: Heads
+Winner: Player1
+
+Round700: 
+Player1: Card: 10-C
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round701: 
+Player1: Card: 7-C
+Player2: Card: 5-D
+Face: Tails
+Winner: Player2
+
+Round702: 
+Player1: Card: 9-S
+Player2: Card: 4-D
+Face: Tails
+Winner: Player2
+
+Round703: 
+Player1: Card: 4-S
+Player2: Card: 10-H
+Face: Heads
+Winner: Player2
+
+Round704: 
+Player1: Card: 8-D
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round705: 
+Player1: Card: 2-C
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round706: 
+Player1: Card: K-D
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round707: 
+Player1: Card: 6-H
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round708: 
+Player1: Card: J-C
+Player2: Card: K-C
+Face: Heads
+Winner: Player2
+
+Round709: 
+Player1: Card: 4-H
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round710: 
+Player1: Card: 3-D
+Player2: Card: J-H
+Face: Tails
+Winner: Player1
+
+Round711: 
+Player1: Card: Q-S
+Player2: Card: 2-H
+Face: Heads
+Winner: Player1
+
+Round712: 
+Player1: Card: 2-D
+Player2: Card: 9-C
+Face: Tails
+Winner: Player1
+
+Round713: 
+Player1: Card: 8-C
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round714: 
+Player1: Card: 10-S
+Player2: Card: 5-S
+Face: Heads
+Winner: Player1
+
+Round715: 
+Player1: Card: A-D
+Player2: Card: 3-C
+Face: Heads
+Winner: Player2
+
+Round716: 
+Player1: Card: 6-S
+Player2: Card: 9-D
+Face: Heads
+Winner: Player2
+
+Round717: 
+Player1: Card: A-H
+Player2: Card: 10-D
+Face: Tails
+Winner: Player1
+
+Round718: 
+Player1: Card: 5-C
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round719: 
+Player1: Card: 3-H
+Player2: Card: 5-D
+Face: Heads
+Winner: Player2
+
+Round720: 
+Player1: Card: 6-D
+Player2: Card: 7-C
+Face: Tails
+Winner: Player1
+
+Round721: 
+Player1: Card: 9-H
+Player2: Card: 4-D
+Face: Heads
+Winner: Player1
+
+Round722: 
+Player1: Card: A-S
+Player2: Card: 9-S
+Face: Heads
+Winner: Player2
+
+Round723: 
+Player1: Card: J-D
+Player2: Card: 10-H
+Face: Tails
+Winner: Player2
+
+Round724: 
+Player1: Card: 7-D
+Player2: Card: 4-S
+Face: Heads
+Winner: Player1
+
+Round725: 
+Player1: Card: 7-H
+Player2: Card: 4-C
+Face: Tails
+Winner: Player2
+
+Round726: 
+Player1: Card: A-C
+Player2: Card: 8-D
+Face: Tails
+Winner: Player1
+
+Round727: 
+Player1: Card: Q-H
+Player2: Card: 8-H
+Face: Tails
+Winner: Player2
+
+Round728: 
+Player1: Card: 8-S
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round729: 
+Player1: Card: Q-D
+Player2: Card: 2-S
+Face: Heads
+Winner: Player1
+
+Round730: 
+Player1: Card: K-S
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round731: 
+Player1: Card: 7-S
+Player2: Card: K-C
+Face: Heads
+Winner: Player2
+
+Round732: 
+Player1: Card: Q-C
+Player2: Card: J-C
+Face: Tails
+Winner: Player2
+
+Round733: 
+Player1: Card: 6-C
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round734: 
+Player1: Card: 10-C
+Player2: Card: 4-H
+Face: Heads
+Winner: Player1
+
+Round735: 
+Player1: Card: 5-H
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round736: 
+Player1: Card: 2-C
+Player2: Card: 8-C
+Face: Heads
+Winner: Player2
+
+Round737: 
+Player1: Card: J-H
+Player2: Card: 3-C
+Face: Tails
+Winner: Player2
+
+Round738: 
+Player1: Card: 3-D
+Player2: Card: A-D
+Face: Heads
+Winner: Player1
+
+Round739: 
+Player1: Card: 2-H
+Player2: Card: 9-D
+Face: Tails
+Winner: Player1
+
+Round740: 
+Player1: Card: Q-S
+Player2: Card: 6-S
+Face: Tails
+Winner: Player2
+
+Round741: 
+Player1: Card: 9-C
+Player2: Card: 3-S
+Face: Tails
+Winner: Player2
+
+Round742: 
+Player1: Card: 2-D
+Player2: Card: 5-C
+Face: Tails
+Winner: Player1
+
+Round743: 
+Player1: Card: 5-S
+Player2: Card: 5-D
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 10-S
+Player2: Card: 3-H
+Player1: Card: 10-D
+Player2: Card: 9-S
+Player1: Card: A-H
+Player2: Card: A-S
+Player1: Card: 7-C
+Player2: Card: 10-H
+Face: Tails
+Winner: Player1
+
+Round744: 
+Player1: Card: 6-D
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round745: 
+Player1: Card: 4-D
+Player2: Card: 4-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 9-H
+Player2: Card: 7-H
+Player1: Card: 4-S
+Player2: Card: 8-H
+Player1: Card: 7-D
+Player2: Card: Q-H
+Player1: Card: 8-D
+Player2: Card: 6-H
+Face: Tails
+Winner: Player2
+
+Round746: 
+Player1: Card: A-C
+Player2: Card: K-S
+Face: Heads
+Winner: Player2
+
+Round747: 
+Player1: Card: K-D
+Player2: Card: K-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 8-S
+Player2: Card: 7-S
+Player1: Card: 2-S
+Player2: Card: J-C
+Player1: Card: Q-D
+Player2: Card: Q-C
+Player1: Card: 4-H
+Player2: Card: J-S
+Face: Heads
+Winner: Player2
+
+Round748: 
+Player1: Card: 10-C
+Player2: Card: 6-C
+Face: Heads
+Winner: Player1
+
+Round749: 
+Player1: Card: A-D
+Player2: Card: K-H
+Face: Heads
+Winner: Player2
+
+Round750: 
+Player1: Card: 3-D
+Player2: Card: 5-H
+Face: Tails
+Winner: Player1
+
+Round751: 
+Player1: Card: 9-D
+Player2: Card: 8-C
+Face: Heads
+Winner: Player1
+
+Round752: 
+Player1: Card: 2-H
+Player2: Card: 2-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 5-C
+Player2: Card: 3-C
+Player1: Card: 2-D
+Player2: Card: J-H
+Player1: Card: 10-H
+Player2: Card: 6-S
+Player1: Card: 7-C
+Player2: Card: Q-S
+Face: Heads
+Winner: Player2
+
+Round753: 
+Player1: Card: A-S
+Player2: Card: 3-S
+Face: Tails
+Winner: Player1
+
+Round754: 
+Player1: Card: A-H
+Player2: Card: 9-C
+Face: Heads
+Winner: Player2
+
+Round755: 
+Player1: Card: 9-S
+Player2: Card: J-D
+Face: Heads
+Winner: Player2
+
+Round756: 
+Player1: Card: 10-D
+Player2: Card: 6-D
+Face: Tails
+Winner: Player2
+
+Round757: 
+Player1: Card: 3-H
+Player2: Card: 6-H
+Face: Heads
+Winner: Player2
+
+Round758: 
+Player1: Card: 10-S
+Player2: Card: 8-D
+Face: Heads
+Winner: Player1
+
+Round759: 
+Player1: Card: 5-D
+Player2: Card: Q-H
+Face: Heads
+Winner: Player2
+
+Round760: 
+Player1: Card: 5-S
+Player2: Card: 7-D
+Face: Heads
+Winner: Player2
+
+Round761: 
+Player1: Card: 6-C
+Player2: Card: 8-H
+Face: Heads
+Winner: Player2
+
+Round762: 
+Player1: Card: 10-C
+Player2: Card: 4-S
+Face: Tails
+Winner: Player2
+
+Round763: 
+Player1: Card: 5-H
+Player2: Card: 7-H
+Face: Tails
+Winner: Player1
+
+Round764: 
+Player1: Card: 3-D
+Player2: Card: 9-H
+Face: Heads
+Winner: Player2
+
+Round765: 
+Player1: Card: 8-C
+Player2: Card: 4-C
+Face: Heads
+Winner: Player1
+
+Round766: 
+Player1: Card: 9-D
+Player2: Card: 4-D
+Face: Tails
+Winner: Player2
+
+Round767: 
+Player1: Card: 3-S
+Player2: Card: K-S
+Face: Tails
+Winner: Player1
+
+Round768: 
+Player1: Card: A-S
+Player2: Card: A-C
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 8-D
+Player2: Card: J-S
+Player1: Card: 10-S
+Player2: Card: 4-H
+Player1: Card: 7-H
+Player2: Card: Q-C
+Player1: Card: 5-H
+Player2: Card: Q-D
+Face: Heads
+Winner: Player2
+
+Round769: 
+Player1: Card: 4-C
+Player2: Card: J-C
+Face: Heads
+Winner: Player2
+
+Round770: 
+Player1: Card: 8-C
+Player2: Card: 2-S
+Face: Tails
+Winner: Player2
+
+Round771: 
+Player1: Card: K-S
+Player2: Card: 7-S
+Face: Tails
+Winner: Player2
+
+Round772: 
+Player1: Card: 3-S
+Player2: Card: 8-S
+Face: Tails
+Winner: Player1
+
+Round773: 
+Player1: Card: 8-S
+Player2: Card: K-C
+Face: Tails
+Winner: Player1
+
+Round774: 
+Player1: Card: 3-S
+Player2: Card: K-D
+Face: Tails
+Winner: Player1
+
+Round775: 
+Player1: Card: K-C
+Player2: Card: K-H
+Winner: Player0
+
+Let the NEGOTIATIONs Begin!!!
+Player1: Card: 8-S
+Player2: Card: A-D
+Player1: Card: K-D
+Player2: Card: Q-S
+Player1: Card: 3-S
+Player2: Card: 7-C
+Face: Heads
+Winner: Player2
+
+========== Game Over - show results ============
+
+Number of Rounds: 775
+Number of Rounds won by Player 1: 402
+Number of Rounds won by Player 2: 373
+Player2 has won the game
